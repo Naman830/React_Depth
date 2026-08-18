@@ -94,4 +94,7 @@ Render 1        Render 2 (with the if)     Result
 
 ---
 
+## Coming next
+- ➡ [Chapter 03_Routing](../03_Routing/README.md) — real URLs, links, params, layouts and guards
+
 ⬅ [Back to master index](../README.md)
